@@ -1,0 +1,6 @@
+recommendation-service/
+├── src/
+│   └── main.rs
+├── Cargo.toml
+├── .gitignore
+└── README.md
